@@ -1,0 +1,13 @@
+Sprint Retrospective - Sprint Atual
+
+O que funcionou bem:
+- Criação das branches separadas para cada história facilitou o controle e testes.
+- Uso do Git e GitHub para versionamento e merge foi realizado com sucesso.
+
+O que pode melhorar:
+- Melhor planejamento inicial para evitar retrabalho em nomes de arquivos.
+- Automatizar testes de navegação nos links no futuro.
+
+Sugestões para próximos sprints:
+- Utilizar issues no GitHub para acompanhamento das tarefas.
+- Criar uma branch de "homologação" para testes antes de enviar à main.

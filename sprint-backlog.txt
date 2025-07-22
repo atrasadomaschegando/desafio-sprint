@@ -1,0 +1,11 @@
+Sprint Backlog - Sprint Atual
+
+História de Usuário 1:
+Como visitante do site, quero visualizar os nomes dos veículos com destaque azul para facilitar a identificação visual.
+Tarefa: Alterar o código HTML do arquivo index.html para que os nomes dos veículos apareçam na cor azul (#0000AA).
+Estimativa: 2 pontos
+
+História de Usuário 3:
+Como visitante, quero ter uma navegação clara entre as páginas para encontrar facilmente as informações que procuro.
+Tarefa: Atualizar os links do menu no arquivo contato.html com nomes mais claros e caminhos corretos.
+Estimativa: 3 pontos
